@@ -1,6 +1,6 @@
 ## 🔥 My Best Project
 
-This is a fully functional web app built with React, Node.js , Redux , TailwindCSS,.
+⚡This is a complete and dynamic web application developed using React, Node.js, Redux, and styled with TailwindCSS, providing a seamless user experience.
 
 🌐 Live Demo: [https://chap-t.ir/](https://chap-t.ir/)
 
